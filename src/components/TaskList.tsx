@@ -23,6 +23,7 @@ export function TaskList() {
       };
 
       setTasks([...tasks, task]);
+      setNewTaskTitle("");
     }
   }
 
@@ -49,13 +50,12 @@ export function TaskList() {
         <div className="input-group">
           <input
             type="text"
-            placeholder="Add a new task"
+            placeholder="Adicionar novo todo"
             onChange={(e) => setNewTaskTitle(e.target.value)}
             onKeyPress={(e) => {
               if (e.key === "Enter") {
                 setNewTaskTitle(e.currentTarget.value);
                 handleCreateNewTask();
-                setNewTaskTitle("");
               }
             }}
             value={newTaskTitle}
