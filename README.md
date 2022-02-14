@@ -1,9 +1,9 @@
 # TodoList with ReactJS - Rocketseat Ignite
 
-<a href="https://www.php.net/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=reactjs&color=gray&style=for-the-badge&logo=react"></a>
-<a href="https://www.php.net/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=sass&color=gray&style=for-the-badge&logo=sass"></a>
-<a href="https://www.php.net/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=typescript&color=gray&style=for-the-badge&logo=typescript"></a>
-<a href="https://www.php.net/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=jest&color=gray&style=for-the-badge&logo=jest"></a>
+<a href="https://pt-br.reactjs.org/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=reactjs&color=gray&style=for-the-badge&logo=react"></a>
+<a href="https://sass-lang.com/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=sass&color=gray&style=for-the-badge&logo=sass"></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=typescript&color=gray&style=for-the-badge&logo=typescript"></a>
+<a href="https://jestjs.io/pt-BR/" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=&message=jest&color=gray&style=for-the-badge&logo=jest"></a>
 
 Hello everybody, here I keep my code developed during the first challenge from Ignite platform (rocketseat). Basically I built a simple todo list using typescript and sass. The template was simple and beautiful, but after apply the main functionalities I wanted to let the application more unique, so I change the colors besides to apply responsiveness.
 
